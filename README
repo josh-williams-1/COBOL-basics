@@ -1,0 +1,7 @@
+COBOL basics.
+A program which implements some beginner programming procedures
+for the sake of familiarizing myself with this new language.
+
+Tested on linux with open-cobol
+compile: cobc -x basics.cbl
+run: ./basics
